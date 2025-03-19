@@ -1,6 +1,11 @@
-<!-- 🎨 Elegant Pink & Purple Banner -->
+<!-- 🎨 Elegant Lilac & Pink Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95124447/230792126-1c0a4e5e-9268-4e7a-8e76-1765c38e8dd3.png" alt="Pink and Purple Aesthetic Banner">
+  <img src="https://user-images.githubusercontent.com/95124447/230792126-1c0a4e5e-9268-4e7a-8e76-1765c38e8dd3.png" alt="Lilac and Pink Aesthetic Banner">
+</p>
+
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=DA70D6&width=700&height=60&lines=Welcome+to+My+GitHub+Profile!;Master's+Student+in+Data+Science+%26+AI;GPT+Bot+Creator+%7C+Prompt+Engineer;Let's+Explore+Data+Together!" alt="Typing SVG" />
 </p>
 
 # **Amber Bellou**  
@@ -36,7 +41,7 @@ I am a **Master’s student in Data Analytics and Computational Social Sciences 
 ## **💼 Experience**  
 
 🔬 **Research Analyst Intern** | *300for300 (Feb 2025 – Present)*  
-📌 Researching how young Black girls (ages 9-15) co-create therapy in a ‘playscape,’ focusing on creative therapy and self-reporting.  
+📌Researching Happiness Models, Conducting Research on the neuroscience of play, Research Design, Archiving. 
 
 📣 **Head of Marketing** | *Boston Private Guide (March 2025 – Present)*  
 📌 Leading marketing strategy and outreach for a private touring company in Boston.  
@@ -72,7 +77,7 @@ I am a **Master’s student in Data Analytics and Computational Social Sciences 
 
 ## **📂 My Resume**  
 
-📄 **[View My Resume](https://github.com/amberbellou/amberbellou/raw/main/AmberResume.pdf)**  
+📄 **[🌟 View My Resume](https://github.com/amberbellou/amberbellou/raw/main/AmberResume.pdf)**  
 *(Click to download the PDF.)*  
 
 ---
@@ -85,6 +90,13 @@ I am a **Master’s student in Data Analytics and Computational Social Sciences 
 
 ---
 
+### **🌈 Fun Touches**  
+💖 I love **pink and purple sunsets**! 🌅  
+🎶 I have a **passion for AI-driven music and content creation**.  
+🚀 I believe **data science & AI can reshape the world!**  
+
+---
+
 <p align="center">
-  <em>“Data is the new frontier—let’s explore it together!”</em>
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" alt="Dancing Flower GIF" />
 </p>
