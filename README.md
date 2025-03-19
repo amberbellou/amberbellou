@@ -45,6 +45,15 @@ With **two bachelor's degrees** in **Anthropology and Political Science** and ex
 ### **💻 Programming Languages:**  
 🚀 Python | R | SQL  
 
+### **🛠️ AI & Machine Learning Expertise:**  
+🤖 **Expert GPT Bot Creator** – Skilled in designing and deploying **custom GPT-powered AI chatbots**.  
+🎯 **Prompt Engineering Specialist** – Crafting highly optimized prompts for AI efficiency, creativity, and automation.  
+⚙ **AI Integration** – Experience with OpenAI API, LangChain, and building AI-driven applications.  
+
+### **📊 Data Science & Analytics:**  
+📈 Data Visualization (Tableau, Matplotlib, Seaborn)  
+📊 Statistical Modeling & Computational Analysis  
+
 ### **🛠️ Tools & Platforms:**  
 ✨ OpenAI | Jupyter Notebook | Tableau | Excel  
 
@@ -57,6 +66,10 @@ With **two bachelor's degrees** in **Anthropology and Political Science** and ex
 
 🌟 **Head of Marketing | Boston Private Guide** *(March 2025 – Present)*  
 📌 Leading marketing strategy and outreach for a private touring company in Boston.  
+
+🤖 **AI & Chatbot Development** *(Freelance & Personal Projects)*  
+📌 Developed and deployed **multiple GPT-powered bots** for automation, research, and user engagement.  
+📌 Designed AI-driven assistants for businesses and research projects, integrating **natural language understanding (NLU)** and **custom prompt frameworks**.  
 
 🧪 **Research Assistant | Human Research Lab (Lynette Sievert Lab), UMass Amherst** *(2022)*  
 📌 Conducted anthropological research and data analysis on health-related topics.  
@@ -82,9 +95,9 @@ With **two bachelor's degrees** in **Anthropology and Political Science** and ex
 
 ## 📂 My Resume  
 
-📄 **[View My Resume](https://github.com/amberbellou/your-resume.pdf)**  
+📄 **[View My Resume](https://github.com/amberbellou/amberbellou/raw/main/Amber_Bellou_Resume.pdf)**  
 
-📌 *Make sure your resume is uploaded to your GitHub repository as `your-resume.pdf` for this link to work!*  
+📌 *Click the link above to download my resume directly!*  
 
 ---
 
