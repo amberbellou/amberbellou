@@ -1,8 +1,9 @@
-<!-- Custom Styling -->
+<!-- Welcome Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E39CE3&width=700&height=60&lines=%F0%9F%8C%B8+Welcome+to+My+GitHub+Profile!+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
+<!-- Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/Master's_Student-Data_Analytics-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Research-Data_Science-pink?style=for-the-badge">
@@ -11,21 +12,6 @@
 
 ---
 
-<style>
-  body {
-    background: linear-gradient(135deg, #E39CE3, #FFB6C1, #D8BFD8);
-    color: #2D2D2D;
-    font-family: "Arial", sans-serif;
-  }
-  h1, h2 {
-    color: #8A2BE2;
-  }
-</style>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="250">
-</div>
-
 ## 🌟 About Me  
 
 I’m **Amber Bellou**, a **Master’s student in Data Analytics and Computational Social Sciences (MS DACSS) at UMass Amherst**, passionate about uncovering insights at the intersection of **medicine, AI, and data science**.  
@@ -33,9 +19,9 @@ I’m **Amber Bellou**, a **Master’s student in Data Analytics and Computation
 With **two bachelor's degrees** in **Anthropology and Political Science** and expertise in **Python, R, and SQL**, I leverage data to solve complex global challenges.  
 
 ### 🔍 Research Interests  
-💡 Medical Anthropology  
-💡 AI in Medicine  
-💡 Data-Driven Social Science  
+- 💡 Medical Anthropology  
+- 💡 AI in Medicine  
+- 💡 Data-Driven Social Science  
 
 ---
 
@@ -96,13 +82,15 @@ With **two bachelor's degrees** in **Anthropology and Political Science** and ex
 
 ## 📂 My Resume  
 
-📄 **[View my Resume](#)**  
+📄 **[View My Resume](https://github.com/amberbellou/your-resume.pdf)**  
+
+📌 *Make sure your resume is uploaded to your GitHub repository as `your-resume.pdf` for this link to work!*  
 
 ---
 
 ## 💬 Let’s Connect!  
 
-🌎 **[LinkedIn](#)**  
+🌎 **[LinkedIn](https://www.linkedin.com/in/amber-bellou-2999592b1/)**  
 📧 **Email:** Abellou@umass.edu  
 
 ---
