@@ -1,6 +1,6 @@
-<!-- 🌸 Pink & Purple Aesthetic Banner -->
+<!-- 🎨 Elegant Pink & Purple Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/ff66cc/333333?text=Amber+Bellou+|+Data+Science+%26+AI" alt="Pink Purple Gradient Banner" />
+  <img src="https://user-images.githubusercontent.com/95124447/230792126-1c0a4e5e-9268-4e7a-8e76-1765c38e8dd3.png" alt="Pink and Purple Aesthetic Banner">
 </p>
 
 # **Amber Bellou**  
@@ -72,7 +72,7 @@ I am a **Master’s student in Data Analytics and Computational Social Sciences 
 
 ## **📂 My Resume**  
 
-📄 **[View My Resume](https://github.com/amberbellou/amberbellou/raw/main/Amber%20Resume%20.pdf)**  
+📄 **[View My Resume](https://github.com/amberbellou/amberbellou/raw/main/AmberResume.pdf)**  
 *(Click to download the PDF.)*  
 
 ---
