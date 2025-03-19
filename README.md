@@ -1,121 +1,71 @@
-<!-- Fancy Sunset Banner -->
+<!-- Pink & Purple Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F09FF7&background=FFB6C100&width=700&height=60&lines=Welcome+to+my+GitHub+Profile!;I+Love+Pink+and+Purple+Sunsets!;Let's+Explore+Data+%26+AI+together!" alt="Typing SVG" />
+  <img src="https://via.placeholder.com/1200x300/ff66cc/333333?text=Pink+%26+Purple+Gradient" alt="Pink Purple Gradient Banner" />
 </p>
 
-<!-- Pink/Purple Themed Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Master's_Student-Data_Analytics-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-Data_Science-pink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Prompt_Engineering-ff69b4?style=for-the-badge" />
-</div>
+# Amber Bellou
 
-<!-- Pink-Purple Sunset Divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT1R9EXV1KBR3I0sIK/giphy.gif" width="600" alt="Pink and Purple Sunset" />
-</p>
+**Master’s Student** in Data Analytics and Computational Social Sciences (MS DACSS) at UMass Amherst  
+**Email**: Abellou@umass.edu | **Phone**: 617-888-9919  
+[**LinkedIn**](https://www.linkedin.com/in/amber-bellou-2999592b1/) | [**GitHub**](https://github.com/amberbellou)
 
 ---
 
-## 🌟 About Me
+## About Me
+I’m a passionate data scientist and researcher, focused on the intersection of **medicine, AI, and data science**.  
+- **Expert GPT Bot Creator** & **Prompt Engineer**  
+- Two Bachelor’s degrees in **Anthropology & Political Science** (Minor: Environmental Science)  
+- Fluent in **Arabic, English, French, and Spanish**  
 
-I’m **Amber Bellou**, a **Master’s student in Data Analytics and Computational Social Sciences (MS DACSS) at UMass Amherst**, passionate about uncovering insights at the intersection of **medicine, AI, and data science**.
-
-With **two bachelor's degrees** in **Anthropology and Political Science** and expertise in **Python, R, and SQL**, I leverage data to solve complex global challenges. I’m also an **expert at creating GPT bots** and an **excellent prompt engineer**, building AI-driven solutions to real-world problems.
-
-### 🔍 Research Interests
-- 💡 Medical Anthropology  
-- 💡 AI in Medicine  
-- 💡 Data-Driven Social Science  
+I love leveraging data to tackle complex global challenges and have experience in **Python, R, SQL**, and **machine learning** tools.
 
 ---
 
-## 🎓 Education
-- **Master’s (in progress) – Data Analytics & Computational Social Sciences**  
-  - *UMass Amherst (Expected May 2025)*  
-  - **Thesis Track:** Investigating barriers to mental healthcare for Muslim college students in Massachusetts.
+## Experience Highlights
 
-- **Dual Bachelor’s Degrees – Anthropology & Political Science**  
-  - *UMass Amherst (Graduated Winter 2023)*  
-  - Minor in **Environmental Science**
+- **Research Analyst Intern | 300for300 (Feb 2025 – Present)**  
+  Researching how young Black girls (ages 9–15) co-create therapy in a ‘playscape,’ focusing on creative therapy and self-reporting.
 
-- **Certificate – Medical Interpretation in Spanish** *(2017)*  
+- **Head of Marketing | Boston Private Guide (Mar 2025 – Present)**  
+  Leading marketing strategy and outreach for a private touring company in Boston.
 
-🌎 **Languages:** Arabic | English | French | Spanish  
+- **Research Assistant | Human Research Lab, UMass Amherst (2022)**  
+  Conducted anthropological research and data analysis on health-related topics.
 
----
+- **Research Assistant | Ideological Framework Lab, UMass Amherst (1 year)**  
+  Analyzed political data and frameworks, contributing to influential research outcomes.
 
-## 🛠️ My Skill Set
+- **Intern | Curation Center, UMass Amherst (2 years)**  
+  Cataloged and archived historical artifacts, improving data management workflows.
 
-### **💻 Programming Languages:**  
-- Python | R | SQL
-
-### **🛠️ AI & Machine Learning Expertise:**  
-- **Expert GPT Bot Creator** – Skilled in designing and deploying **custom GPT-powered AI chatbots**  
-- **Prompt Engineering Specialist** – Crafting optimized prompts for AI efficiency, creativity, and automation  
-- **OpenAI / API Integration** – Experience with ChatGPT, LangChain, DALL-E, MidJourney
-
-### **📊 Data Science & Analytics:**  
-- Data Visualization: Tableau, Matplotlib, Seaborn  
-- Statistical Modeling & Computational Analysis  
-
-### **🛠️ Tools & Platforms:**  
-- Jupyter Notebook | Excel | Git | GitHub  
+- **Podcast Host | UMass Amherst Anthropology Podcast**  
+  Co-hosted the first anthropology podcast on campus, exploring cultural and academic topics.
 
 ---
 
-## 💼 Experience
-
-- **Research Analyst Intern | 300for300** *(Feb 2025 – Present)*  
-  - Researching how young Black girls (ages 9-15) co-create therapy in a safe space called the 'playscape,' focusing on creative therapy and self-reporting.
-
-- **Head of Marketing | Boston Private Guide** *(March 2025 – Present)*  
-  - Leading marketing strategy and outreach for a private touring company in Boston.
-
-- **Research Assistant | Human Research Lab (Lynette Sievert Lab), UMass Amherst** *(2022)*  
-  - Conducted anthropological research and data analysis on health-related topics.
-
-- **Intern | Curation Center, UMass Amherst (Eric Johnson)** *(2 years)*  
-  - Contributed to archiving and cataloging artifacts and data.
-
-- **Research Assistant | Ideological Framework Lab (Justin Gross), UMass Amherst** *(1 year)*  
-  - Assisted in analyzing political data and frameworks.
-
-- **Podcast Host | UMass Amherst Anthropology Podcast** *(Final undergraduate semester)*  
-  - Co-hosted UMass Amherst’s first anthropology podcast, exploring academic and cultural topics.
+## Skills & Interests
+- **Programming**: Python, R, SQL  
+- **AI & ML**: GPT-based chatbots, prompt engineering, OpenAI API  
+- **Data Visualization**: Tableau, Matplotlib, Seaborn  
+- **Tools**: Jupyter Notebook, Excel, Git  
+- **Research & Analysis**: Statistical modeling, anthropological methods  
+- **Languages**: Arabic, English, French, Spanish  
 
 ---
 
-## 🔍 Research & Career Goals
-
-- **Master’s Thesis:** Investigating barriers to mental healthcare for Muslim college students in Massachusetts.  
-- **Career Interests:** AI research, data analytics, machine learning, and medical anthropology.  
-- **Seeking Opportunities:** Open to internships and roles in AI, research, and data science.  
+## My Resume
+[**View My Resume**](https://github.com/amberbellou/amberbellou/raw/main/Amber%20Resume%20.pdf)  
+*(Click to download the PDF.)*
 
 ---
 
-## 📂 My Resume
-
-📄 **[View My Resume](https://github.com/amberbellou/amberbellou/raw/main/Amber%20Resume.pdf)**  
-*(Click the link above to download my resume directly!)*
-
----
-
-## 💬 Let’s Connect!
-
-- **[LinkedIn](https://www.linkedin.com/in/amber-bellou-2999592b1/)**
-- **Email:** Abellou@umass.edu
-
----
-
-## 🌅 Fun Facts
-
-- ✨ I love exploring how data can reshape our understanding of the world.  
-- 🎙️ I’ve hosted a podcast and enjoy storytelling.  
-- 🌸 **Favorite colors?** Pink and sunset hues, reflecting my optimistic and calm personality!  
+## Contact & Connect
+- **Email**: Abellou@umass.edu  
+- [**LinkedIn**](https://www.linkedin.com/in/amber-bellou-2999592b1/)  
+- [**GitHub**](https://github.com/amberbellou)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250" alt="Dancing Flower" />
+  <em>“Data is the new frontier—let’s explore it together!”</em>
 </p>
