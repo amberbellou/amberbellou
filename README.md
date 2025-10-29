@@ -1,6 +1,6 @@
 <!-- Upload your PDF resume to: ./assets/Amber_Bellou_Resume.pdf -->
 
-<h1 align="center">Amber “Ami” Bellou</h1>
+<h1 align="center">Amber Bellou</h1>
 <p align="center">
 Director of AI-Powered Onboarding · Technical Recruiter · Web Dev (1/4) · AI Governance & Cognitive Security (AI2027 Data Layer)
 </p>
