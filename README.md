@@ -1,71 +1,59 @@
 <p align="center">
-  <br>
-  <span style="font-size:34px;"><b>Amber Bellou</b></span><br>
-  <span>AI Governance • Cognitive Security • Product & Talent Systems</span>
-  <br><br>
-  🌈 🩷 💜 💙 💚 💛 🧡 ❤️ 🌈
-  <br><br>
+  <span style="font-size:36px;"><b>Amber Bellou</b></span><br>
+  <span>AI Governance • Cognitive Security • Systems for People at Scale</span><br><br>
+  🌈 🩷 💜 💙 💚 💛 🧡 ❤️ 🌈<br><br>
   <a href="mailto:abellou@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-abellou%40umass.edu-ff69b4"></a>
-  <a href="https://github.com/amberbellou"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-amberbellou-f472b6"></a>
   <a href="https://www.linkedin.com/in/amberbellou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-eb34b7"></a>
   <a href="./updatedResumeoct12%20(2).pdf"><img alt="Resume PDF" src="https://img.shields.io/badge/Resume-PDF-ea4aaa"></a>
 </p>
 
 ---
 
-### Summary
-Cross-sector builder. One of four developers on the **Gen AI Global Web Dev** team. I design human-in-the-loop systems that make AI programs accountable, measurable, and teachable. Background in anthropology and political science with an M.S. in **Data Analytics & Computational Social Science (DACSS)**.
+### One-line
+Builder of audit-ready AI programs that move from idea → talent → shipped outcomes. Multilingual. Social-science trained. Technically fluent.
 
-### Roles
-- Director of AI-powered Onboarding, **Gen AI Global**  
-- Web Developer, **Gen AI Global** (1/4 core devs)  
-- Co-lead, **JobGen** (with founder Oscar Sanchez)  
-- Research Analyst, **300for300**  
-- Former CMO, **Boston Private Guide** (tourism startup)  
-- Research Assistant, **Human Health Lab**; **Curation Center** intern (1 year)  
-- Instructor: taught **non-coders** and **Agent Development** at Gen AI Global and partner universities  
-- Host, **AnthroHub** Season 1
+### My Edge (why me)
+- **Translate across worlds:** Anthropology + political science + **M.S. DACSS** + **Env Sci minor** → governance and human factors few devs carry.
+- **Ship systems, not slides:** Designed an AI-assisted onboarding OS that scaled **200+ contributors across 13 teams**, cut manual ops **~70%**, and promoted interns to leads.
+- **Security mindset:** Cognitive-security playbooks, data-contract patterns, and audit trails built into workflows from day one.
+- **Teach at the boundary:** Led **Agent Development for non-coders** at Gen AI Global and universities; host of **AnthroHub** Season 1.
 
-### Notable Wins
-- Built an AI-assisted onboarding pipeline for **200+** contributors across **13** departments.  
-- Created the org’s **first internship program** and a **data-driven marketing + onboarding department**.  
-- Designed role-placement logic, dashboards, and data contracts; cut manual entry and raised throughput by **~70%**.  
-- Standardized interview rubrics and training; mentored interns into leadership roles.  
-- Launched multi-platform growth engine (TikTok, YouTube, FB) and multilingual SEO; recruited and managed creator teams.  
-- Produced cognitive-security playbooks and evaluation checklists for agent safety and narrative integrity.
+### MIT-Relevant Work
+- **Web Dev (1 of 4 core devs), Gen AI Global** — internal dashboards, role-placement logic, contributor telemetry, and governance docs.
+- **JobGen (Co-lead with founder)** — matching engine for applicants and posting orgs; product spec, risk register, review checklists.
+- **Agent-Delivered “AI Book”** — adaptive agent that teaches GenAI use cases; content graph, multilingual delivery, eval gates.
+- **Cognitive-Security Kits** — narrative threat models, red/blue evals, and safety checklists for agent deployments.
 
-### Active Projects
-| Project | Scope | My Role |
-| --- | --- | --- |
-| **JobGen** | Matching engine for applicants and poster orgs | Co-lead. Product design, governance, contributor pipeline. |
-| **Agent-Delivered “AI Book”** | Adaptive learning agent for GenAI use cases | Product lead. Content graph, QA, multilingual delivery. |
-| **Onboarding OS** | E2E intake → vetting → placement → audit | Architect + developer. Python, workflows, data contracts. |
-| **CogSec Playbooks** | Threat models and eval heuristics | Research + authoring. Red/blue design and reporting. |
+### Cross-Sector Impact
+- **300for300 (Research Analyst):** youth mental-health evidence base; culturally responsive interventions and program metrics.
+- **Tourism Startup CMO (Boston):** launched TikTok/YouTube/FB, multilingual SEO, creator team; analytics-driven recruiting.
+- **Human Health Lab + Curation Center (1 year):** research operations and collections; disciplined documentation habits.
 
-### Teaching & Media
-- **Agent Development** workshops and labs for non-coders.  
-- University guest sessions on onboarding systems, governance, and metrics.  
-- **AnthroHub**: hosted Season 1 on culture, tech, and social impact.
+### What I Build
+- Human-in-the-loop pipelines with measurable SLAs
+- Data contracts, lineage notes, incident reviews
+- Evaluation plans that mix statistical rigor with user reality
 
-### Education & Training
-- **M.S., DACSS** — University of Massachusetts Amherst  
-- **B.A., Anthropology** + **B.A., Political Science**; **Minor, Environmental Science**  
-- **MIT Professional Education** — *Applied Data Science & AI*, in progress
+### Stack
+**Python, Pandas, SQL, FastAPI, Jupyter, JSON/YAML, prompt/program design**  
+**Ops/Gov:** role taxonomies, rubrics, audit trails, risk registers, change control  
+**Growth:** SEO/SEM, analytics, partnerships  
+**Languages:** English • French • Arabic (conversational)
 
-### Skills
-**Build:** Python, SQL, FastAPI, Jupyter, JSON/YAML, prompt design  
-**Data:** Pandas, evaluation design, A/B testing, dashboards  
-**Product/Ops:** roadmaps, role taxonomies, SLA metrics, SOPs  
-**Growth:** SEO/SEM, multi-platform social, partnerships  
-**Governance:** data contracts, risk registers, incident reviews  
-**Languages:** English, French, Arabic (conversational)
+### Teaching & Outreach
+- Agent Dev workshops for non-coders; university guest sessions on governance and metrics
+- AnthroHub podcast: culture × tech × systems
+
+### Training
+- **MIT Professional Education — Applied Data Science & AI (in progress)**
+- **M.S. Data Analytics & Computational Social Science (UMass Amherst)**  
+- **B.A. Anthropology** + **B.A. Political Science** • **Minor: Environmental Science**
 
 ---
 
 <p align="center">
-  <a href="./updatedResumeoct12%20(2).pdf"><b>Download my resume</b></a> ·
-  <a href="mailto:abellou@umass.edu">abellou@umass.edu</a> ·
-  <a href="https://www.linkedin.com/in/amberbellou/">LinkedIn</a>
-  <br><br>
-  🌈 🩷 Built for clarity, impact, and auditability 🩷 🌈
+  <a href="./updatedResumeoct12%20(2).pdf"><b>Resume</b></a> · 
+  <a href="mailto:abellou@umass.edu">abellou@umass.edu</a> · 
+  <a href="https://www.linkedin.com/in/amberbellou/">LinkedIn</a><br><br>
+  🌈 🩷 People-centered AI that is measurable, governable, and safe 🩷 🌈
 </p>
