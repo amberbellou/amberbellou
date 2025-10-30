@@ -14,7 +14,7 @@
 ---
 
 ### Summary
-Cross-sector builder. One of four developers on the **Gen AI Global Web Dev** team. I design human-in-the-loop systems that make AI programs accountable, measurable, and teachable. Background in anthropology and political science with an M.S. in **Data Analytics & Computational Social Science (DACSS)**. Environment Science minor.
+Cross-sector builder. One of four developers on the **Gen AI Global Web Dev** team. I design human-in-the-loop systems that make AI programs accountable, measurable, and teachable. Background in anthropology and political science with an M.S. in **Data Analytics & Computational Social Science (DACSS)**.
 
 ### Roles
 - Director of AI-powered Onboarding, **Gen AI Global**  
