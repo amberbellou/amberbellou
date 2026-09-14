@@ -1,59 +1,53 @@
 <p align="center">
-  <span style="font-size:36px;"><b>Amber Bellou</b></span><br>
-  <span>AI Governance • Cognitive Security • Systems for People at Scale</span><br><br>
+  <span style="font-size:36px;"><b>Ambrine "Amber" Bellou</b></span><br>
+  <span>Cognitive Security for Learners • AI Literacy • Learning Design</span><br><br>
   🌈 🩷 💜 💙 💚 💛 🧡 ❤️ 🌈<br><br>
-  <a href="mailto:abellou@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-abellou%40umass.edu-ff69b4"></a>
-  <a href="https://www.linkedin.com/in/amberbellou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-eb34b7"></a>
-  <a href="./updatedResumeoct12%20(2).pdf"><img alt="Resume PDF" src="https://img.shields.io/badge/Resume-PDF-ea4aaa"></a>
+  <a href="mailto:amberbellou@gse.harvard.edu"><img alt="Email" src="https://img.shields.io/badge/Email-amberbellou%40gse.harvard.edu-ff69b4"></a>
+  <a href="https://www.linkedin.com/in/amber-bellou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-eb34b7"></a>
 </p>
 
 ---
 
-### One-line
-Builder of audit-ready AI programs that move from idea → talent → shipped outcomes. Multilingual. Social-science trained. Technically fluent.
+### About
+Ed.M. student in **Learning Design, Innovation & Technology** at the **Harvard Graduate School of Education**, studying cognitive security for learners in the age of AI: what anthropomorphized AI, cognitive offloading and drift, and screen-mediated instruction do to developing minds, and what safeguards children need.
 
-### My Edge (why me)
-- **Translate across worlds:** Anthropology + political science + **M.S. DACSS** + **Env Sci minor** → governance and human factors few devs carry.
-- **Ship systems, not slides:** Designed an AI-assisted onboarding OS that scaled **200+ contributors across 13 teams**, cut manual ops **~70%**, and promoted interns to leads.
-- **Security mindset:** Cognitive-security playbooks, data-contract patterns, and audit trails built into workflows from day one.
-- **Teach at the boundary:** Led **Agent Development for non-coders** at Gen AI Global and universities; host of **AnthroHub** Season 1.
+### Now
+- **Co-Founder, CogSec**: cognitive security education, research, and policy; curriculum, toolkits, and open-source frameworks for safer AI use and learner agency
+- **Chief Operating Officer, aiglo** (formerly Gen AI Global): educational nonprofit for applied AI learning
+- **Instructor, AI Literacy & Cognitive Security**, aiglo Gen MRKT Program
+- **Head of Cognitive Security for AI in Education for Children**, IEEE Education Society, European subcommittee
 
-### MIT-Relevant Work
-- **Web Dev (1 of 4 core devs), Gen AI Global** — internal dashboards, role-placement logic, contributor telemetry, and governance docs.
-- **JobGen (Co-lead with founder)** — matching engine for applicants and posting orgs; product spec, risk register, review checklists.
-- **Agent-Delivered “AI Book”** — adaptive agent that teaches GenAI use cases; content graph, multilingual delivery, eval gates.
-- **Cognitive-Security Kits** — narrative threat models, red/blue evals, and safety checklists for agent deployments.
+### Research
+- **Child-Centered AI Lab, HGSE** (Prof. Ying Xu), Research Assistant, 2026: mixed methods data from 120 children (ages 6-10) across game-based and chatbot-mediated learning sessions; retention, transfer, question-asking, and curiosity
+- **300for300**, Research Analyst, 2025: literature review on Black girls' mental health (ages 9-15); participatory research with a Youth Advisory Board
+- **Human Health Lab, UMass Amherst**, Research Assistant, 2021-2022: data collection and analysis for a brown adipose tissue and heat wave study
 
-### Cross-Sector Impact
-- **300for300 (Research Analyst):** youth mental-health evidence base; culturally responsive interventions and program metrics.
-- **Tourism Startup CMO (Boston):** launched TikTok/YouTube/FB, multilingual SEO, creator team; analytics-driven recruiting.
-- **Human Health Lab + Curation Center (1 year):** research operations and collections; disciplined documentation habits.
+### Projects
+| Project | What it is |
+|---|---|
+| [Mindwing](https://amberbellou.github.io/mindwing/) | A browser game about how AI works, and how to keep your mind your own |
+| [Mr. System](https://amberbellou.github.io/mr-system/) | A classroom game about systemic inequality in education, for 30-60 students |
+| [ENSO Ready Global](https://amberbellou.github.io/enso-ready-global/) | Plain-language El Niño / La Niña briefings for any place on Earth, in your language |
+| [Cognitive Security Papers](https://amberbellou.github.io/cognitive-security-site/) | Index of research on sycophancy, automation bias, cognitive offloading, and human-AI risks |
 
-### What I Build
-- Human-in-the-loop pipelines with measurable SLAs
-- Data contracts, lineage notes, incident reviews
-- Evaluation plans that mix statistical rigor with user reality
+### Methods & Tools
+**Research:** experimental design, survey development (Qualtrics), regression modeling, text mining, qualitative coding, data visualization<br>
+**Code & Analysis:** Python, R, SQL, RStudio, Tableau, HTML, Git<br>
+**Learning Design:** curriculum design, AI literacy instruction, workshop facilitation, evaluation rubrics<br>
+**Languages:** Arabic (native) • French (native) • English (fluent) • Spanish (fluent)
 
-### Stack
-**Python, Pandas, SQL, FastAPI, Jupyter, JSON/YAML, prompt/program design**  
-**Ops/Gov:** role taxonomies, rubrics, audit trails, risk registers, change control  
-**Growth:** SEO/SEM, analytics, partnerships  
-**Languages:** English • French • Arabic (conversational)
+### Education
+- **Ed.M., Learning Design, Innovation & Technology**, Harvard Graduate School of Education (expected 2027)
+- **M.S., Data Analytics & Computational Social Science**, University of Massachusetts Amherst (2025)
+- **B.A., Political Science** and **B.A., Anthropology**, University of Massachusetts Amherst (2024)
 
-### Teaching & Outreach
-- Agent Dev workshops for non-coders; university guest sessions on governance and metrics
-- AnthroHub podcast: culture × tech × systems
-
-### Training
-- **MIT Professional Education — Applied Data Science & AI (in progress)**
-- **M.S. Data Analytics & Computational Social Science (UMass Amherst)**  
-- **B.A. Anthropology** + **B.A. Political Science** • **Minor: Environmental Science**
+### Certifications
+MIT Professional Education, Data Science and AI (2026) • CITI Program: IRB, data ethics, social-behavioral research, AI ethics
 
 ---
 
 <p align="center">
-  <a href="./updatedResumeoct12%20(2).pdf"><b>Resume</b></a> · 
-  <a href="mailto:abellou@umass.edu">abellou@umass.edu</a> · 
-  <a href="https://www.linkedin.com/in/amberbellou/">LinkedIn</a><br><br>
-  🌈 🩷 People-centered AI that is measurable, governable, and safe 🩷 🌈
+  <a href="mailto:amberbellou@gse.harvard.edu">amberbellou@gse.harvard.edu</a> ·
+  <a href="https://www.linkedin.com/in/amber-bellou/">LinkedIn</a><br><br>
+  🌈 🩷 Keeping minds their own in the age of AI 🩷 🌈
 </p>
